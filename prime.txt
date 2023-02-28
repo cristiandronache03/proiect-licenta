@@ -1,0 +1,12 @@
+ public void checkPrime(int n){
+if(n<10){
+if(n<n+1){
+if(n<n+2){
+if(n<n+3){
+if(n<n+4){
+if(n<n+5){
+if(n<n+6){
+if(n<n+7){
+if(n<n+8){
+if(n<n+9){
+if

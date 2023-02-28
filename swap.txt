@@ -1,0 +1,11 @@
+ public void swap(int[] a, int[] b){
+
+int c = a[0];
+int d = b[0];
+
+if(c>d){
+c = d;
+}
+
+}
+
